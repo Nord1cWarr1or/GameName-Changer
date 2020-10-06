@@ -1,3 +1,19 @@
+/* *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  * *
+*                                                                               *
+*   Plugin: GameName Changer                                                    *
+*                                                                               *
+*   Official repository: https://github.com/Nord1cWarr1or/GameName-Changer      *
+*   Contacts of the author: Telegram: @NordicWarrior                            *
+*                                                                               *
+*  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  * *
+*                                                                               *
+*   Плагин: GameName Changer                                                    *
+*                                                                               *
+*   Официальный репозиторий: https://github.com/Nord1cWarr1or/GameName-Changer  *
+*   Связь с автором: Telegram: @NordicWarrior                                   *
+*                                                                               *
+*  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  * */
+
 #include <amxmodx>
 #include <reapi>
 
